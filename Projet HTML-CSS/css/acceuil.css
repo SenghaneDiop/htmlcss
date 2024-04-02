@@ -1,0 +1,50 @@
+#accueil_image1{
+    background-image: url("/images/Photo\ \(3\).png");
+    background-position: center;
+    padding: 50px 20px;
+    height: 72vh;
+    margin-bottom: 10vh;
+   
+}
+
+#accueil_image2{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10vh;
+
+}
+
+#accueil_image2_1{
+    width: 50%;
+    height: 40vh;
+    justify-content: center;
+  
+}
+#accueil_image2_1 img{
+    border-radius: 35px;
+    display: flex;
+}
+#accueil_image2_2 img{
+    border-radius: 35px;
+    display: flex;
+}
+#accueil_image2_2{
+    width: 50%;
+    height: 40vh;
+    justify-content: center;
+}
+
+#accueil_image3{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 95vh;
+    background-color: #F9F8F8;
+    flex-wrap: wrap;
+    margin-bottom: 10vh;
+    
+}
